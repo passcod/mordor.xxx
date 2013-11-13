@@ -1,2 +1,1 @@
-gh-pages
----------
+See https://barad-dur.mordor.xxx
